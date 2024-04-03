@@ -14,7 +14,7 @@ Things to turn in: <br>
 <br><br>
 
 <b>Resources:</b> <br>
-<b>GitHub:</b> https://github.com/dljimenez2324/MiniChallenge_1_Endpoint <br>
+<b>GitHub:</b> https://github.com/dljimenez2324/MiniChallenge_1_Endpoint_MVC <br>
 
 
 Peer Reviewed by _________________________ <br>
