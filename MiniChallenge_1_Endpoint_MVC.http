@@ -1,0 +1,6 @@
+@MiniChallenge_1_Endpoint_MVC_HostAddress = http://localhost:5102
+
+GET {{MiniChallenge_1_Endpoint_MVC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
