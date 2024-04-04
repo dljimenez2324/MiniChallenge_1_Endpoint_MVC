@@ -17,7 +17,7 @@ Things to turn in: <br>
 <b>GitHub:</b> https://github.com/dljimenez2324/MiniChallenge_1_Endpoint_MVC <br>
 
 
-Peer Reviewed by: Aaron Perez: The API Endpoint works as required, user is able to enter input and receive an output of hello "userinput". <br>
-Comments:  <br>
+Peer Reviewed by: Aaron Perez: <br>
+Comments: The API Endpoint works as required, user is able to enter input and receive an output of hello "userinput". <br>
 
 
